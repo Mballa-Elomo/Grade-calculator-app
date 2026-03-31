@@ -1,0 +1,26 @@
+name: grade_calculator
+description: ICT University Grade Calculator with Supabase backend
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.7 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.0.0
+  excel: ^4.0.0
+  path_provider: ^2.1.0
+  open_file: ^3.3.0
+  intl: ^0.18.0
+  file_picker: ^8.0.0  # Add this line
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ict_logo.png
