@@ -44,4 +44,52 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies
+This Code of Conduct applies within all community spaces, and also applies when an
+individual is officially representing the community in public spaces.
+Examples of representing our community include using an official email address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+[INSERT CONTACT METHOD].
+
+All complaints will be reviewed and investigated promptly and fairly.
+
+## Enforcement Guidelines
+
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct.
+
+### 1. Correction
+
+**Community Impact:** Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
+
+**Consequence:** A private, written warning from community leaders.
+
+### 2. Warning
+
+**Community Impact:** A violation through a single incident or series of actions.
+
+**Consequence:** A warning with consequences for continued behavior.
+
+### 3. Temporary Ban
+
+**Community Impact:** A serious violation of community standards.
+
+**Consequence:** A temporary ban from community interaction.
+
+### 4. Permanent Ban
+
+**Community Impact:** Demonstrating a pattern of violation of community standards.
+
+**Consequence:** A permanent ban from the community.
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant,
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
